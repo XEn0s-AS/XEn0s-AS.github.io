@@ -1,4 +1,5 @@
 # Game Designer Portfolio
+<br>
 
 ## About Me
 世界观 / 战斗系统策划方向
@@ -74,7 +75,7 @@
 <br>
   
 <img src="拆解合集.png" width="750" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="描述">
-  
+<br>
   
 ## Contact
 vx：KJHZXC_07
