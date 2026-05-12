@@ -18,7 +18,7 @@
 ## 《Project 星渊》
 ![战斗系统图](Gaxia.png)
 
-[啊]（[《Project 星渊》 GDD - 世界观.pdf](https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project 星渊》 GDD - 世界观.pdf)）
+[1](https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project 星渊》 GDD - 世界观.pdf)
 
 ### 世界观
    - 世界本源与能量体系
