@@ -11,18 +11,17 @@
 当前作品以：
 - 世界观设计
 - 战斗系统设计及其他相关系统
-- 战斗循环拆解
+- 战斗循环拆解 
 为主。
+
 ---
 
 ## 《Project 星渊》
-![战斗系统图](Gaxia.png)
+![Gaixa](Gaxia.png)
 
-[1](https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf?raw=true)
+[1](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/tag/2026-05-13-assets)
 
-<a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击下载数据包(ZIP)</a>
-
-### 世界观
+### 世界观 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击以查看网页版文档(PDF)</a>
    - 世界本源与能量体系
    - 国家、势力与主要角色
    - 系统耦合说明与基础剧情骨架（影响主角的战斗表现）
