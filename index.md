@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="colour.css">
 # Game Designer Portfolio
 <br>
 
