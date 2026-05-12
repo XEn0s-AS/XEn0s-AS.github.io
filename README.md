@@ -45,19 +45,12 @@
    - 【变流模块】的作用方式与用途
 
 ### UI设计与概念草图 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
-   - 设计了战斗界面与培养/构筑界面UI的原型（相关记录本中附有figma链接以方便展示）
+   - 设计了战斗界面与培养/构筑界面UI的原型
    - 大陆板块的排布与国家、国家剧情主题
    - 月球基地分层设计
    - 开始/登陆界面示意图
-
-<iframe 
-   style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-   width="800" 
-   height="450" 
-   src="https://embed.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?embed-host=share" 
-   allowfullscreen> 
-</iframe>
-
+![战斗UI](《Project%20星渊》%20战斗UI.png)(https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1){:target="_blank"}
+![构筑UI](《Project%20星渊》%20构筑UI.png)(https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1){:target="_blank"}
 
 ## 拆解与OC
 
@@ -66,3 +59,4 @@
 ## Contact
 vx：KJHZXC_07
 Email：wobushiyaoshuhan@126.com
+Thanks for reading
