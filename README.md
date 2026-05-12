@@ -20,6 +20,8 @@
 
 [1](https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf?raw=true)
 
+<a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击下载数据包(ZIP)</a>
+
 ### 世界观
    - 世界本源与能量体系
    - 国家、势力与主要角色
