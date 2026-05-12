@@ -16,10 +16,9 @@
 
 ---
 
-## 《Project 星渊》
+## 《Project 星渊》[点击以下载作品文件合集（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-assets/Project.zip)
 ![Gaixa](Gaxia.png)
-
-[1](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-assets/Project.zip)
+ <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击以查看网页版文档(PDF)</a>
 
 ### 世界观 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击以查看网页版文档(PDF)</a>
    - 世界本源与能量体系
