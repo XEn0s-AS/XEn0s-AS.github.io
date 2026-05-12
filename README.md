@@ -33,22 +33,31 @@
    - 竞品分析（《原神》《燕云十六声》《鸣潮》）
    - 设计规范
 
-### 系统框架&链路图
+### 系统框架&链路图 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
 ![链路](《Project%20星渊》%20系统框架&链路.png)
    - 表示游戏各主要系统框架间如何联系及重要输入/输出链路
 
-### 战斗玩法
+### 战斗玩法 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗玩法.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
    - 大世界、节点、副本、试炼、Roguelite等玩法的形式以及相关产出资源
 
-### 构筑系统
+### 构筑系统 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20构筑系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
    - 角色与武器的构筑方式与维度、【渊元】的作用与重要性
    - 【变流模块】的作用方式与用途
 
-### UI设计与概念草图
+### UI设计与概念草图 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
    - 设计了战斗界面与培养/构筑界面UI的原型（相关记录本中附有figma链接以方便展示）
    - 大陆板块的排布与国家、国家剧情主题
    - 月球基地分层设计
    - 开始/登陆界面示意图
+
+<iframe 
+   style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+   width="800" 
+   height="450" 
+   src="https://embed.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?embed-host=share" 
+   allowfullscreen> 
+</iframe>
+
 
 ## 拆解与OC
 
