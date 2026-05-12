@@ -59,7 +59,9 @@
    - 设计了战斗界面与培养/构筑界面UI的原型（**点击下图以跳转Figma链接**）
    - 大陆板块的排布与**国家**、国家剧情**主题**
    - 月球基地分层设计
-   - 开始/登陆界面示意图  
+   - 开始/登陆界面示意图
+<br>
+
 [![battleUI](战斗UI.png)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
 [![buildUI](bulidUI.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
 
