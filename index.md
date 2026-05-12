@@ -18,8 +18,6 @@
   
 为主。
 
-<br>
-
 ---
 
 <br>
@@ -66,8 +64,6 @@
 [![battleUI](战斗UI.png)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
 [![buildUI](bulidUI.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
 
-<br>
-
 ---
 
 <br>
@@ -79,7 +75,9 @@
   
 <img src="拆解合集.png" width="750" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="描述">
 <br>
-  
+
+---
+
 ## Contact
 vx：KJHZXC_07  
 Email：wobushiyaoshuhan&#64;126.com  
