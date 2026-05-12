@@ -55,7 +55,7 @@
 ## 拆解与OC
 ### 《原神》《鸣潮》《燕云十六声》战斗循环拆解
 ![SYSTEMS](拆解合集.png)
-<img src="拆解合集.png" width="500" alt="描述">
+<img src="拆解合集.png" width="500" style="display: block; margin: 0 auto;" alt="描述">
 
 ## Contact
 vx：KJHZXC_07
