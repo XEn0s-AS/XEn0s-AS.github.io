@@ -25,6 +25,7 @@
    - 系统耦合说明与基础剧情骨架
 
 ### 战斗系统 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
+![战斗系统](《Project%20星渊》%20核心战斗循环.png)
    - 能量体系
    - 核心战斗循环图
    - 战斗框架、机制与结构
