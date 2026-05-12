@@ -3,6 +3,6 @@ body {
 }
 
 .site-title a {
-    color: black;           /* 把颜色改成黑色（或你喜欢的任意颜色） */
-    text-decoration: none;  /* 去掉下划线 */
+    color: black;
+    text-decoration: none; 
 }
