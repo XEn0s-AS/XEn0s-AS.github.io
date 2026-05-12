@@ -5,7 +5,7 @@
 ---
 
 ## 《Project 星渊》
-!(XEn0s-AS.github.io/Gaxia.png)
+![战斗系统图](Gaxia.png)
 ### 世界观
    - 世界本源与能量体系
    - 国家、势力与主要角色
