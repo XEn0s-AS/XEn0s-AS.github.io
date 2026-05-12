@@ -33,7 +33,7 @@
    - 竞品分析（《原神》《燕云十六声》《鸣潮》）
    - 设计规范
 
-### 系统框架&链路图 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》系统框架&链路.png" target="_blank">点击此处以查看网页版文档(PDF)</a>
+### 系统框架&链路图
 ![链路](《Project%20星渊》%20系统框架&链路.png)
    - 表示游戏各主要系统框架间如何联系及重要输入/输出链路
 
@@ -44,7 +44,7 @@
    - 角色与武器的构筑方式与维度、【渊元】的作用与重要性
    - 【变流模块】的作用方式与用途
 
-### UI设计与概念草图<span style="font-size: 12px;">[点击此处以下载概念草图&UI文件（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-Pics/UI.zip)</span>
+### UI设计与概念草图<span style="font-size: 9px;">[点击此处以下载概念草图&UI文件（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-Pics/UI.zip)</span>
    - 设计了战斗界面与培养/构筑界面UI的原型（点击下图以跳转Figma链接）
    - 大陆板块的排布与国家、国家剧情主题
    - 月球基地分层设计
@@ -52,8 +52,8 @@
 [![battleUI](战斗UI.png)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
 [![buildUI](bulidUI.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)  
 
-## 拆解与OC
-### 《原神》《鸣潮》《燕云十六声》战斗循环拆解
+## 拆解与OC  
+### 《原神》《鸣潮》《燕云十六声》战斗循环拆解  
 
 <img src="拆解合集.png" width="750" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="描述">
 
