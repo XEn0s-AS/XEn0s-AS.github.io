@@ -2,7 +2,7 @@ body {
     background-color: #f5f5f5;
 }
 
-.site-title a {
+a[href="https://xen0s-as.github.io/"] {
     color: black !important;
-    text-decoration: none !important; 
+    text-decoration: none !important;
 }
