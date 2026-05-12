@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="colour.css">  
 
 # Game Designer Portfolio
-<br>
 
 ## About Me
 世界观 / 战斗系统策划方向
