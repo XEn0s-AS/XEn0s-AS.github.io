@@ -44,13 +44,13 @@
    - 角色与武器的构筑方式与维度、【渊元】的作用与重要性
    - 【变流模块】的作用方式与用途
 
-### UI设计与概念草图 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
-   - 设计了战斗界面与培养/构筑界面UI的原型
+### UI设计与概念草图[点击此处以下载作品文件合集（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-Pics/UI.zip)
+   - 设计了战斗界面与培养/构筑界面UI的原型（点击下图以跳转Figma链接）
    - 大陆板块的排布与国家、国家剧情主题
    - 月球基地分层设计
    - 开始/登陆界面示意图  
 [![battleUI](战斗UI.png)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
-[![构筑UI](角色培养UI.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
+[![构筑UI](build.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
 
 ## 拆解与OC
 
