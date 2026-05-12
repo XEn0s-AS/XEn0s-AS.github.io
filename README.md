@@ -1,19 +1,14 @@
-# XEn0s - Game Designer Portfolio
+# Game Designer Portfolio
 
 ## About Me
-
-战斗 / 系统策划方向。
-
-擅长：
-- 动作游戏拆解
-- DPM/APM分析
-- 战斗循环设计
 
 ---
 
 ## Projects
 
-### 战斗系统
+### 《Project 星渊》
+
+#### 战斗系统
 
 - 《鸣潮》战斗系统分析
 - 《燕云十六声》招架机制研究
