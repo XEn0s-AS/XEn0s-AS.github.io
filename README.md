@@ -16,16 +16,15 @@
 
 ---
 
-## 《Project 星渊》[点击以下载作品文件合集（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-assets/Project.zip)
+## 《Project 星渊》[点击此处以下载作品文件合集（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-assets/Project.zip)
 ![Gaixa](Gaxia.png)
- <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击以查看网页版文档(PDF)</a>
 
-### 世界观 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击以查看网页版文档(PDF)</a>
+### 世界观 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
    - 世界本源与能量体系
    - 国家、势力与主要角色
    - 系统耦合说明与基础剧情骨架
 
-### 战斗系统
+### 战斗系统 <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a>
    - 能量体系
    - 核心战斗循环图
    - 战斗框架、机制与结构
@@ -34,6 +33,7 @@
    - 设计规范
 
 ### 系统框架&链路图
+![链路](《Project 星渊》 系统框架&链路.png)
    - 表示游戏各主要系统框架间如何联系及重要输入/输出链路
 
 ### 战斗玩法
