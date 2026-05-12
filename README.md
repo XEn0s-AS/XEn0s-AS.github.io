@@ -5,7 +5,7 @@
 ---
 
 ## 《Project 星渊》
-!(Files/【玉城】天空~【盖希娅】.png)
+!(XEn0s-AS.github.io/Gaxia.png)
 ### 世界观
    - 世界本源与能量体系
    - 国家、势力与主要角色
