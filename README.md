@@ -50,12 +50,12 @@
    - 月球基地分层设计
    - 开始/登陆界面示意图  
 [![battleUI](战斗UI.png)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
-[![构筑UI](build.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
+[![buildUI](bulidUI.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)  
 
 ## 拆解与OC
 ### 《原神》《鸣潮》《燕云十六声》战斗循环拆解
 ![SYSTEMS](拆解合集.png)
-<img src="拆解合集.png" width="500" style="display: block; margin: 0 auto;" alt="描述">
+<img src="拆解合集.png" width="750" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="描述">
 
 ## Contact
 vx：KJHZXC_07
