@@ -57,7 +57,7 @@
    - 【变流模块】的作用方式与用途  
 <br>
 
-### UI设计与概念草图<span style="font-size: 14px;">[点击此处以下载概念草图&UI文件（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-Pics/UI.zip)</span>
+### UI设计与概念草图 <span style="font-size: 14px;">[点击此处以下载概念草图&UI文件（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-Pics/UI.zip)</span>
    - 设计了战斗界面与培养/构筑界面UI的原型（**点击下图以跳转Figma链接**）
    - 大陆板块的排布与**国家**、国家剧情**主题**
    - 月球基地分层设计
