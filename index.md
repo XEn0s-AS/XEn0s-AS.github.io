@@ -23,7 +23,7 @@
 <br>
 
 ## 《Project 星渊》<span style="font-size: 14px;">[点击此处以下载作品文件合集（zip）](https://github.com/XEn0s-AS/XEn0s-AS.github.io/releases/download/2026-05-13-assets/Project.zip)</span>
-![Gaixa](Gaxia.png)  
+![Gaixa](Gaxia.webp)  
 <br>
 
 ### 世界观<span style="font-size: 14px;"> <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20世界观.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a></span>
@@ -33,7 +33,7 @@
 <br>
 
 ### 战斗系统<span style="font-size: 14px;"> <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗系统.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a></span>
-![战斗系统](《Project%20星渊》%20核心战斗循环.png)
+![战斗系统](《Project%20星渊》%20核心战斗循环.webp)
    - 能量体系
    - 核心战斗循环图
    - 战斗框架、机制与结构
@@ -43,7 +43,7 @@
 <br>
 
 ### 系统框架&链路图
-![链路](《Project%20星渊》%20系统框架&链路.png)
+![链路](《Project%20星渊》%20系统框架&链路.webp)
    - 表示游戏各主要系统框架**间**如何联系及重要输入/输出**链路**  
 
 ### 战斗玩法<span style="font-size: 14px;"> <a href="https://raw.githubusercontent.com/XEn0s-AS/XEn0s-AS.github.io/main/《Project%20星渊》%20GDD%20-%20战斗玩法.pdf" target="_blank">点击此处以查看网页版文档(PDF)</a></span>
@@ -61,8 +61,8 @@
    - 大陆板块的排布与**国家**、国家剧情**主题**
    - 月球基地分层设计
    - 开始/登陆界面示意图  
-[![battleUI](战斗UI.png)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
-[![buildUI](bulidUI.png)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
+[![battleUI](战斗UI.webp)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
+[![buildUI](bulidUI.webp)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
 
 ---
 
@@ -73,7 +73,7 @@
 
 <br>
   
-<img src="拆解合集.png" width="750" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="描述">
+<img src="拆解合集.webp" width="750" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="描述">
 
 ---
 <br>
