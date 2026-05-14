@@ -61,7 +61,7 @@
    - 大陆板块的排布与**国家**、国家剧情**主题**
    - 月球基地分层设计
    - 开始/登陆界面示意图  
-[![battleUI](战斗UI.webp)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
+[![battleUI](battleUI.webp)](https://www.figma.com/design/0wL3g7UfJZae5xjKiYrmzW/Project-Abyssos-Stellar---Battle-UI?m=auto&t=505wcP7QspIZpCUw-1) 
 [![buildUI](bulidUI.webp)](https://www.figma.com/design/W80KVJzKUJUq1k5u9Bnyk4/Project-Abyssos-Stellaris--Systems?m=auto&t=505wcP7QspIZpCUw-1)
 
 ---
